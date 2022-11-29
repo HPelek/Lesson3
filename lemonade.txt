@@ -2,5 +2,5 @@ lemonade recipe;
 
 1.lime
 2.water
-3.Sugar
+3.one cube Sugar
 4.Mint
